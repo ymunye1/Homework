@@ -60,7 +60,7 @@ p {
 
 /* class with hero to have the height,width and margin bottom units changed 
 to below numbers. Made image with linked as background image. Made background 
-the size of a cover and centered it.  */
+the size of a cover and centered it. */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,23 +70,28 @@ the size of a cover and centered it.  */
     background-position: center;
 }
 
+ 
+/* made text and paragraph for image float left. Added margin to right */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+ /* made text and paragraph for image float right. Added margin to left */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+ /* added additional width and margin to class content */
 .content {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
 }
 
-.benefits {
+ /* changes aside to have a margin-right, padding, width, height, font family float, 
+ blue background color. moved text underneath icon */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;

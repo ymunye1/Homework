@@ -122,7 +122,8 @@ aside {
     max-width: 150px;
 }
 
-
+/* adds margin, padding, height, family-font background color 
+and color to class below */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -132,6 +133,8 @@ aside {
     color: #ffffff;
 }
 
+/* adds margin, padding, height, family-font background color 
+and color to class below */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -141,6 +144,8 @@ aside {
     color: #ffffff;
 }
 
+/* adds margin, padding, height, family-font background color 
+and color to class below */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -177,6 +182,7 @@ aside {
     font-size: 36px;
 }
 
+/* add padding , clear, font-family, and text align to footer below */
 footer {
     padding: 30px;
     clear: both;
@@ -184,6 +190,7 @@ footer {
     text-align: center;
 }
 
+/* increase font size to footer h2 below */
 footer h2 {
     font-size: 20px;
 }

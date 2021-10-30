@@ -1,13 +1,17 @@
+/* generic selector makes all padding and margin O */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* makes everything within body tags background color white */
 body {
     background-color: #d9dcd6;
 }
 
+/* makes header have padding 20px, font family to Trenuchet,
+ background to blue and font color white  */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +19,14 @@ header {
     color: #ffffff;
 }
 
+/* makes header with header 1 tag inline with font size 48px */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
-    color: #d9dcd6;
-}
-
+/* changed the header nav top padding to 15px, added 20px margin to the right 
+ made nav section move to the right, chaged font type and font size */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +35,32 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+/* removed the bullets points on the list for nav to none */
+nav ul {
     list-style-type: none;
 }
 
-header nav ul li {
+/* made nav li wordsinline with space in between by adding margin to the left
+of the words in nav*/
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* made the a href links white and removed all decorations to the links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* all paragraph fonts to 16px */
 p {
     font-size: 16px;
 }
 
+/* class with hero to have the height,width and margin bottom units changed 
+to below numbers. Made image with linked as background image. Made background 
+the size of a cover and centered it.  */
 .hero {
     height: 800px;
     width: 100%;

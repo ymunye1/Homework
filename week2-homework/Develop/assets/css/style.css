@@ -144,8 +144,8 @@ and color to class below */
     color: #ffffff;
 }
 
-/* adds margin, padding, height, family-font background color 
-and color to class below */
+/* adds margin, padding, height, family-font style, background color 
+and text color to class below */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -155,28 +155,42 @@ and color to class below */
     color: #ffffff;
 }
 
+/* made search-engine-optimizatio class image max height 200px */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+
+/* made online-reputation-manage class image max height 200px */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+
+/*made social-media-marketing class image max height 200px  */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* adds a bottom margin of 20px and makes 
+font sizes 36px for any class search-engine-optimization
+and a heading tag of size h2   */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* adds a bottom margin of 20px and makes 
+font sizes 36px for any class online-reputation-management
+and a heading tag of size h2   */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* adds a bottom margin of 20px and makes 
+font sizes 36px for any class social-media-marketing
+and a heading tag of size h2   */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -190,7 +204,7 @@ footer {
     text-align: center;
 }
 
-/* change font size to footer h2 below */
+/* on the footer tag change the h2 tag font size to footer h2 below */
 footer h2 {
     font-size: 20px;
 }

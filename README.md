@@ -1,11 +1,18 @@
 # second-week-hw
 
-a marketing agency has hired you to refactor an existing site to make it more accessible. 
+CODE REFRACTOR
+A marketing agency has hired you to refactor an existing site to make it more accessible. 
 
-improving the wesite without changing what the website style
+Improving the wesite without changing the website styling
 
-screenshoots of the live website
+Screenshoots of the live website are listed below
 
-Screen Shot 2021-10-30 at 9.34.51 PM 
+./Assets/Screen Shot 2021-10-30 at 9.34.51 PM.png
+./Assets/Screen Shot 2021-10-30 at 9.35.09 PM.png
+./Assets/Screen Shot 2021-10-30 at 9.35.20 PM.png
+./Assets/Screen Shot 2021-10-30 at 9.35.29 PM.png
 
+above screenshots are located in assets folder
+
+The link for the live website is https://ymunye1.github.io/Homework/week2-homework/Develop/
 
